@@ -16,6 +16,7 @@ Run `nmp i` to install the necessary dependencies, and then `npm start` to run t
 
 
 ## Usage
+
 [Video Tutorial](/assets/tutorial.mp4)
 
 
@@ -29,3 +30,8 @@ Run `nmp i` to install the necessary dependencies, and then `npm start` to run t
 [Express.js](https://expressjs.com/)
 
 [MySQL](https://www.npmjs.com/package/mysql)
+
+
+## License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
