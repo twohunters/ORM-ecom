@@ -15,11 +15,11 @@ Type the following into your terminal or command line to copy this repository:
 
 ## Usage
 
-(/assets/1.png)
-(/assets/2.png)
-(/assets/3.png)
-(/assets/4.png)
-(/assets/5.png)
+![database](./assets/1.png)
+![seed](./assets/2.png)
+![start](./assets/3.png)
+![getcategories](./assets/4.png)
+![getproducts](./assets/5.png)
 
 
 ## Credits
