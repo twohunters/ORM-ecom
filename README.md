@@ -3,21 +3,23 @@
 
 ## Description
 
-description
+This is a backend for an e-commerce business that allows the user to add, update, view, and delete products and their categories. The API runs on Express.js and uses Sequelize to interact with a MySQL database.
 
 
 ## Installation
 
-type the following into your terminal or command line to copy this repository:
+Type the following into your terminal or command line to copy this repository:
 
-`git@github.com:twohunters/ORM-ecom.git`
-
-Run `nmp i` to install the necessary dependencies, and then `npm start` to run the application.
+`git clone git@github.com:twohunters/ORM-ecom.git`
 
 
 ## Usage
 
-[Video Tutorial](/assets/tutorial.mp4)
+(/assets/1.png)
+(/assets/2.png)
+(/assets/3.png)
+(/assets/4.png)
+(/assets/5.png)
 
 
 ## Credits
